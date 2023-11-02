@@ -1,4 +1,4 @@
-## Lauch a container from a Prebuild Image
+## Launch a container from a Prebuild Image
 
 <h6> Commands </h6>
 
