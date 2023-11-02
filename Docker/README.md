@@ -14,6 +14,6 @@
 
 > Check images: **docker images**
 
-> Mount data (home.html)  to a htdocs: **docker run --rm -d -p 80:80 -v $(pwd)/website:/usr/local/apache2/htdocs httpd**
+> Mount data (home.html)  to  htdocs: **docker run --rm -d -p 80:80 -v $(pwd)/website:/usr/local/apache2/htdocs httpd**
 
 > Access the content on the browser: **localhost/home.html**
