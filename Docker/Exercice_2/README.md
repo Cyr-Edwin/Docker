@@ -10,4 +10,4 @@
 
 <h6> or </h6>
 
-> docker run -it -v $PWD:/app -w /app python3 hello-world.py
+> docker run -it -v $PWD:/app -w /app python python3 hello-world.py
